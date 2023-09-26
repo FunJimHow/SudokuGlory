@@ -2,7 +2,7 @@
 
 ## 使用指南
 
-- 运行游戏请打开Sudoku Glory,exe
+- 运行游戏请打开Sudoku Glory.exe
 
 - 运行代码请打开代码文件中的demo.py
 - 数独算法保存在代码文件中的suanfa.py
